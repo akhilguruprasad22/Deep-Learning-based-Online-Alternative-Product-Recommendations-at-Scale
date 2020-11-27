@@ -8,6 +8,6 @@
 5) The final section fleeces the outputs into one
 
 ## Team Members:
-Akhil G - 171IT106
-Amodh Ranjal Shenoy - 171IT108
+Akhil G - 171IT106 <br />
+Amodh Ranjal Shenoy - 171IT108 <br />
 Sagar G - 171IT136
